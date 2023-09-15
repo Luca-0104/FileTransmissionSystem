@@ -1,4 +1,4 @@
-# BDIC3027J-Software Systems Architecture-2021/22 Spring - File Transmission System
+# File Transmission System
 
 ## How to Use This System
 
@@ -64,6 +64,8 @@ In this system, some commands are provided for sender and receiver.
 #### Where to Find the Downloaded files
 The downloaded files can be found in the directory of "src/testFiles/testReceiveDir/"
 
+## Archetecture Analysis Based on SOLID Principles
+![filetransmissiondoc](https://github.com/Luca-0104/FileTransmissionSystem/assets/61484990/ba2774d7-7c8f-41c3-a1be-8e77ba6c42b7)
 
 
 
